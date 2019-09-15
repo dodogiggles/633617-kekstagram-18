@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дарья Шевцова](https://up.htmlacademy.ru/javascript/18/user/633617).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Вечканов](https://htmlacademy.ru/profile/id902303).
 
 ---
 
